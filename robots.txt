@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://dsg-doc.ru/sitemap.xml
