@@ -4,11 +4,11 @@
   <cars>
     <car>
       <unique_id>demo-golf-gti-2016</unique_id>
-      <url>https://dsg-doc-site.invalid/cars/demo/</url>
+      <url>https://vector-auto.invalid/cars/demo/</url>
       <mark_id>Volkswagen</mark_id>
       <folder_id>Golf GTI</folder_id>
       <modification_id>2.0 TSI, DSG</modification_id>
-      <images><image>https://dsg-doc-site.invalid/assets/demo-golf-gti.webp</image></images>
+      <images><image>https://vector-auto.invalid/assets/demo-golf-gti.webp</image></images>
       <body_type>хэтчбек</body_type>
       <color>серый</color>
       <availability>в наличии</availability>
@@ -21,10 +21,10 @@
   </cars>
   <collections>
     <collection id="demo-used-cars">
-      <url>https://dsg-doc-site.invalid/cars/</url>
+      <url>https://vector-auto.invalid/cars/</url>
       <name>Демо: автомобили в продаже</name>
       <description>Учебный каталог. Предложение не является реальным.</description>
-      <picture>https://dsg-doc-site.invalid/assets/demo-golf-gti.webp</picture>
+      <picture>https://vector-auto.invalid/assets/demo-golf-gti.webp</picture>
     </collection>
   </collections>
 </data>
